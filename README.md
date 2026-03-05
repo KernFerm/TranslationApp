@@ -68,4 +68,3 @@ A modern, user-friendly desktop translation application built with Python and Py
 ## Notes
 - This app uses Google Translate's free public API
 - No API key or registration required
-- For production use, consider implementing rate limiting
